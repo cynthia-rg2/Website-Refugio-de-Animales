@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(111, 219, 210);
+    border: solid 4px;
+}
+
+body{
+    background-color: rgb(197, 239, 247);
+    border: solid 2px;
+}
+
+main{
+    background-color: rgb(197, 239, 247);
+    border: 2px;
+}
