@@ -1,8 +1,8 @@
-#Ejercicio crear una página web
+# Ejercicio crear una página web
 
 ## La página debe contener varios elementos
 
-Haciendo una página de refugio de animales en base a otra [página de refugio](https://www.petalatino.com/sobre/nuestros-temas/los-animales-no-son-nuestros-para-abusar-de-ninguna-forma/refugios-de-animales/)
+Haciendo una página de refugio de animales propia con datos basada en otra [página de refugio](https://www.petalatino.com/sobre/nuestros-temas/los-animales-no-son-nuestros-para-abusar-de-ninguna-forma/refugios-de-animales/)
 
 | Número    |   Contiene    |
 | ----------| ------------- |
