@@ -10,7 +10,6 @@ Haciendo una página de refugio de animales propia con datos basada en otra [pá
 | Párrafo   |  Sí lo contiene  |
 | Links     |  Sí lo contiene  |
 | h1,h2     |  Sí lo contiene  |
-| Párrafo   |  Sí lo contiene  |
 | Listas    |  Sí lo contiene  |
 |Etiquetas HTML semánticas | Sí lo contiene |
 
